@@ -1,5 +1,3 @@
-"https://raw.githubusercontent.com/DamilareBabs1/DamilareBabs1/main/assets/banner.png" alt="Fashina Babatunde Banner"
-
 Hi, I'm Fashina Babatunde 👋</h1>
 <h3 align="center">Backend Developer | Passionate About Impactful Code</h3>
 
